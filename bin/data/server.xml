@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Lidar_server>
+	<Mirror_0>1</Mirror_0>
+	<AngleOffset_0>0.0999999</AngleOffset_0>
+</Lidar_server>
+<group>
+	<Mirror_0>1</Mirror_0>
+	<AngleOffset_0>-1.8</AngleOffset_0>
+	<lidar_scale0>0.63</lidar_scale0>
+	<lidar_X>990</lidar_X>
+	<lidar_y>1680</lidar_y>
+	<Rotation>359.6</Rotation>
+</group>
